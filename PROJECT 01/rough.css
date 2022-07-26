@@ -1,0 +1,28 @@
+.main{
+    /* background-color: red; */
+    border: 2px solid black;
+    /* display: flex; */
+    width: auto;
+    height: 600px;
+    /* height: ; */
+}
+
+.image{
+    opacity: 0.9;
+    background-image: url("assets/images/img1.jpeg");
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    /* position: absolute; */
+}
+
+.image-heading h1{
+    /* position: relative; */
+    /* margin-top: 40%; */
+
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    color: white;
+
+}
